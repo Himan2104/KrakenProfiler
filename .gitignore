@@ -77,5 +77,4 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 #custom
-/[Llogs]/*
 *.docx
