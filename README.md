@@ -7,7 +7,7 @@ KrakenProfiler is a lightweight, in-game profiler for games made in unity. It us
 
 ---
 ## Usage
-This piece of software is very easy to use. Simply drag and drop the KrakenProfiler prefab into the first scene of your game (this will usually be the splash screen). Setting it up is easy as well. Almost all the fields in the script have tooltips so you can simply hover over one and know what it exactly does, and for the ones that do not have tooltips, I feel they're pretty self explanatory. For a more detailed description with guiding images refer to the [documentation](https://github.com/himan2104/KrakenProfiler/Documentation.pdf).
+This piece of software is very easy to use. Simply drag and drop the KrakenProfiler prefab into the first scene of your game (this will usually be the splash screen). Setting it up is easy as well. Almost all the fields in the script have tooltips so you can simply hover over one and know what it exactly does, and for the ones that do not have tooltips, I feel they're pretty self explanatory. For a more detailed description with guiding images refer to the [documentation](https://github.com/Himan2104/KrakenProfiler/blob/main/Documentation.pdf).
 
 ### Controls
 | Fields | Type | Description |
