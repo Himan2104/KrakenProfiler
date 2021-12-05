@@ -861,6 +861,18 @@ PrefabInstance:
       propertyPath: AverageFPSFrameRange
       value: 60
       objectReference: {fileID: 0}
+    - target: {fileID: 1251934798165388255, guid: 1015de7fe0c844afd88f4620dc43ae67, type: 3}
+      propertyPath: CustomRecorders.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1251934798165388255, guid: 1015de7fe0c844afd88f4620dc43ae67, type: 3}
+      propertyPath: CustomRecorders.Array.data[0].ProfilerMarker
+      value: GC Used Memory
+      objectReference: {fileID: 0}
+    - target: {fileID: 1251934798165388255, guid: 1015de7fe0c844afd88f4620dc43ae67, type: 3}
+      propertyPath: CustomRecorders.Array.data[0].ProfilerCategory
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1015de7fe0c844afd88f4620dc43ae67, type: 3}
 --- !u!1 &1660509111
